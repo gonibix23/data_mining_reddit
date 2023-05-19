@@ -1,0 +1,907 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="please" />
+    <node id="contact" />
+    <node id="/message/compose/" />
+    <node id="to=/r/ukraine" />
+    <node id="action" />
+    <node id="performed" />
+    <node id="automatically" />
+    <node id="bot" />
+    <node id="moderators" />
+    <node id="subreddit" />
+    <node id="questions" />
+    <node id="concerns" />
+    <node id="support" />
+    <node id="ukraine" />
+    <node id="charities" />
+    <node id="list" />
+    <node id="vetted" />
+    <node id="art" />
+    <node id="friday" />
+    <node id="vetting" />
+    <node id="process" />
+    <node id="want" />
+    <node id="focused" />
+    <node id="vital" />
+    <node id="high-effort" />
+    <node id="content" />
+    <node id="0-99" />
+    <node id="100-199" />
+    <node id="200-present" />
+    <node id="all" />
+    <node id="subject" />
+    <node id="community" />
+    <node id="culture" />
+    <node id="day" />
+    <node id="daily" />
+    <node id="series" />
+    <node id="during" />
+    <node id="wartime" />
+    <node id="ensure" />
+    <node id="post" />
+    <node id="guidelines" />
+    <node id="history" />
+    <node id="our" />
+    <node id="r/ukraine" />
+    <node id="rules" />
+    <node id="there" />
+    <node id="wave" />
+    <node id="donation" />
+    <node id="requests" />
+    <node id="verified" />
+    <node id="flair" />
+    <node id="donate" />
+    <node id="fraudulent" />
+    <node id="posted" />
+    <node id="submission" />
+    <node id="originates" />
+    <node id="common" />
+    <node id="sense" />
+    <node id="mass" />
+    <node id="media" />
+    <node id="advise" />
+    <node id="users" />
+    <node id="check" />
+    <node id="consuming" />
+    <node id="credible" />
+    <node id="source" />
+    <node id="determined" />
+    <node id="double" />
+    <node id="evaluate" />
+    <node id="news" />
+    <node id="learn" />
+    <node id="learning" />
+    <node id="sources" />
+    <node id="slava" />
+    <node id="ukraini" />
+    <node id="привіт" />
+    <node id="chat" />
+    <node id="chats" />
+    <node id="spam" />
+    <node id="respond" />
+    <node id="hitting" />
+    <node id="links" />
+    <node id="protect" />
+    <node id="marking" />
+    <node id="air" />
+    <node id="defense" />
+    <node id="heroyam" />
+    <node id="storm" />
+    <node id="shadow" />
+    <node id="armed" />
+    <node id="forces" />
+    <node id="u/mil_in_ua" />
+    <node id="ukrainian" />
+    <node id="soldiers" />
+    <node id="rest" />
+    <node id="peace" />
+    <node id="counter" />
+    <node id="offensive" />
+    <node id="russian" />
+    <node id="army" />
+    <node id="war" />
+    <node id="cruise" />
+    <node id="missiles" />
+    <node id="fuck" />
+    <node id="russia" />
+    <node id="glory" />
+    <node id="the" />
+    <node id="black" />
+    <node id="sea" />
+    <node id="russians" />
+    <node id="слава" />
+    <node id="україні" />
+    <node id="military" />
+    <node id="crimes" />
+    <node id="defence" />
+    <node id="this" />
+    <node id="heroes" />
+    <node id="may" />
+    <node id="2023" />
+    <node id="stay" />
+    <node id="safe" />
+    <node id="people" />
+    <node id="god" />
+    <node id="bless" />
+    <node id="president" />
+    <node id="zelensky" />
+    <node id="heroiam" />
+    <node id="humanitarian" />
+    <node id="aid" />
+    <node id="fighter" />
+    <node id="jets" />
+    <node id="shadows" />
+    <node id="force" />
+    <node id="volodymyr" />
+    <node id="troops" />
+    <node id="sláva" />
+    <node id="ukraíni" />
+    <node id="u/ki_official" />
+    <node id="training" />
+    <node id="u/united24media" />
+    <node id="united" />
+    <node id="states" />
+    <node id="defenses" />
+    <node id="full-scale" />
+    <node id="invasion" />
+    <node id="u/doccreator" />
+    <node id="win" />
+    <node id="systems" />
+    <node id="equipment" />
+    <node id="red" />
+    <node id="cross" />
+    <node id="u/tallalittlebit" />
+    <node id="🇺🇦слава" />
+    <node id="general" />
+    <node id="staff" />
+    <node id="prime" />
+    <node id="minister" />
+    <node id="victory" />
+    <node id="zelenskyy" />
+    <node id="kingdom" />
+    <node id="putin" />
+    <node id="mother" />
+    <node id="temporarily" />
+    <node id="occupied" />
+    <node id="u/therealmykola" />
+    <node id="..." />
+    <node id="boats|-|-|-|-|18|" />
+    <node id="|other" />
+    <node id="change" />
+    <node id="previous" />
+    <node id="one" />
+    <node id="federation" />
+    <node id="time" />
+    <node id="|anti-aircraft" />
+    <node id="total" />
+    <node id="effort" />
+    <node id="world" />
+    <node id="|warships" />
+    <node id="|special" />
+    <node id="range" />
+    <node id="weapons" />
+    <node id="package" />
+    <node id="assault" />
+    <node id="brigade" />
+    <node id="that" />
+    <node id="good" />
+    <node id="job" />
+    <node id="special" />
+    <node id="supporting" />
+    <node id="u/d-r-az" />
+    <node id="u/snsetoverdi" />
+    <node id="raid" />
+    <node id="luck" />
+    <node id="holy" />
+    <node id="shit" />
+    <node id="hypersonic" />
+    <node id="missile" />
+    <node id="u/vectorix108" />
+    <node id="pilots" />
+    <node id="and" />
+    <node id="kherson" />
+    <node id="oblast" />
+    <node id="ministry" />
+    <node id="positions" />
+    <node id="save" />
+    <node id="lives" />
+    <node id="social" />
+    <node id="armored" />
+    <node id="vehicles" />
+    <node id="fighting" />
+    <node id="hope" />
+    <node id="kerch" />
+    <node id="bridge" />
+    <node id="territories" />
+    <node id="easy" />
+    <node id="they" />
+    <node id="invaders" />
+    <node id="guy" />
+    <node id="nato" />
+    <node id="superiority" />
+    <node id="closer" />
+    <node id="lot" />
+    <node id="soldier" />
+    <node id="song" />
+    <node id="contest" />
+    <node id="south" />
+    <node id="africa" />
+    <node id="u/commandercorrigan" />
+    <node id="u/kharkivoblast" />
+    <node id="u/marketrent" />
+    <node id="fight" />
+    <node id="ops" />
+    <node id="centuries" />
+    <node id="comments" />
+    <node id="monitored" />
+    <node id="constructive" />
+    <node id="feedback" />
+    <node id="drs" />
+    <node id="extended" />
+    <node id="summary" />
+    <node id="faq" />
+    <node id="version" />
+    <node id="top" />
+    <node id="img" />
+    <node id="emote|t5_2qqcn|9000" />
+    <node id="kharkiv" />
+    <node id="law" />
+    <node id="enforcement" />
+    <node id="original" />
+    <node id="reduced" />
+    <node id="provide" />
+    <node id="rip" />
+    <node id="hero" />
+    <node id="aggression" />
+    <node id="artillery" />
+    <node id="losses" />
+    <node id="suredg" />
+    <node id="gmail.com" />
+    <node id="ukrainians" />
+    <node id="keywords" />
+    <node id="trident" />
+    <node id="u/okreddat" />
+    <node id="2.02" />
+    <node id="brrrrrrt" />
+    <node id="charlemagne" />
+    <node id="prize" />
+    <node id="dead" />
+    <node id="orcs" />
+    <node id="initiative" />
+    <node id="international" />
+    <node id="legion" />
+    <node id="nuclear" />
+    <node id="rishi" />
+    <node id="sunak" />
+    <node id="occupation" />
+    <node id="occupiers" />
+    <node id="soviet" />
+    <node id="union" />
+    <node id="strong" />
+    <node id="tanks" />
+    <node id="back" />
+    <node id="alive" />
+    <node id="come" />
+    <node id="destroyed" />
+    <node id="eastern" />
+    <node id="february" />
+    <node id="2022" />
+    <node id="region" />
+    <node id="let" />
+    <node id="9th" />
+    <node id="medical" />
+    <node id="nazi" />
+    <node id="germany" />
+    <node id="patriot" />
+    <node id="real" />
+    <node id="life" />
+    <node id="lost" />
+    <node id="flags" />
+    <node id="thermal" />
+    <node id="vision" />
+    <node id="video" />
+    <node id="thousands" />
+    <node id="u/warm_video_4946" />
+    <node id="you" />
+    <node id="guys" />
+    <node id="abrams" />
+    <node id="ballistic" />
+    <node id="dji" />
+    <node id="mavic" />
+    <node id="eest" />
+    <node id="european" />
+    <node id="countries" />
+    <node id="eurovision" />
+    <node id="mailto" />
+    <node id="emote|t5_2qqcn|9151" />
+    <node id="battalion" />
+    <node id="mod" />
+    <node id="mail" />
+    <node id="nova" />
+    <node id="kakhovka" />
+    <node id="over" />
+    <node id="kyiv" />
+    <node id="square" />
+    <node id="rising" />
+    <node id="china" />
+    <node id="territory" />
+    <node id="frontline" />
+    <node id="start" />
+    <node id="sun" />
+    <node id="train" />
+    <node id="trained" />
+    <node id="equipped" />
+    <node id="u/key_brother" />
+    <node id="u/misana123" />
+    <node id="u/totalspacenut" />
+    <node id="funds" />
+    <node id="update" />
+    <node id="visit" />
+    <node id="crime" />
+    <node id="criminals" />
+    <node id="washing" />
+    <node id="machine" />
+    <node id="what" />
+    <node id="airline" />
+    <node id="miles" />
+    <node id="averages" />
+    <node id="cannon" />
+    <node id="fodder" />
+    <node id="cold" />
+    <node id="full" />
+    <node id="couple" />
+    <node id="weeks" />
+    <node id="ranges" />
+    <node id="deliver" />
+    <node id="discussion" />
+    <node id="united24" />
+    <node id="estimated" />
+    <node id="facing" />
+    <node id="freedom" />
+    <node id="front" />
+    <node id="line" />
+    <node id="damn" />
+    <node id="night" />
+    <node id="government" />
+    <node id="great" />
+    <node id="books" />
+    <node id="imagine" />
+    <node id="dragons" />
+    <node id="lines" />
+    <node id="24.02.2022" />
+    <node id="power" />
+    <node id="official" />
+    <node id="battery" />
+    <node id="raising" />
+    <node id="money" />
+    <node id="removed" />
+    <node id="captivity" />
+    <node id="propaganda" />
+    <node id="fleet" />
+    <node id="direct" />
+    <node id="operations" />
+    <node id="territorial" />
+    <node id="u/ibloodylovecider" />
+    <node id="europe" />
+    <node id="cities" />
+    <node id="flag" />
+    <node id="intelligence" />
+    <node id="language" />
+    <node id="vehicle" />
+    <node id="repairs" />
+    <node id="zone" />
+    <node id="501" />
+    <node id="ngo" />
+    <node id="vulnerable" />
+    <node id="allocated" />
+    <node id="cover" />
+    <node id="unites" />
+    <node id="browse" />
+    <node id="but" />
+    <node id="charitable" />
+    <node id="donations" />
+    <node id="diverse" />
+    <node id="u/jesterboyd" />
+    <node id="co-founded" />
+    <node id="u/kilderov" />
+    <node id="collecting" />
+    <node id="excerpt" />
+    <node id="hello" />
+    <node id="pressing" />
+    <node id="crimea" />
+    <node id="crowdfund" />
+    <node id="crowdfunds" />
+    <node id="non-lethal" />
+    <edge source="please" target="contact" />
+    <edge source="please" target="automatically" />
+    <edge source="please" target="content" />
+    <edge source="please" target="ensure" />
+    <edge source="contact" target="moderators" />
+    <edge source="/message/compose/" target="to=/r/ukraine" />
+    <edge source="/message/compose/" target="subreddit" />
+    <edge source="to=/r/ukraine" target="questions" />
+    <edge source="action" target="performed" />
+    <edge source="action" target="bot" />
+    <edge source="performed" target="automatically" />
+    <edge source="bot" target="flair" />
+    <edge source="bot" target="learn" />
+    <edge source="bot" target="spam" />
+    <edge source="bot" target="reduced" />
+    <edge source="bot" target="source" />
+    <edge source="moderators" target="subreddit" />
+    <edge source="questions" target="concerns" />
+    <edge source="concerns" target="привіт" />
+    <edge source="concerns" target="determined" />
+    <edge source="concerns" target="this" />
+    <edge source="concerns" target="the" />
+    <edge source="concerns" target="that" />
+    <edge source="concerns" target="source" />
+    <edge source="concerns" target="full" />
+    <edge source="concerns" target="they" />
+    <edge source="concerns" target="what" />
+    <edge source="concerns" target="excerpt" />
+    <edge source="concerns" target="good" />
+    <edge source="concerns" target="hello" />
+    <edge source="concerns" target="ukraine" />
+    <edge source="support" target="ukraine" />
+    <edge source="support" target="want" />
+    <edge source="ukraine" target="vetted" />
+    <edge source="ukraine" target="slava" />
+    <edge source="ukraine" target="forces" />
+    <edge source="ukraine" target="war" />
+    <edge source="ukraine" target="glory" />
+    <edge source="ukraine" target="the" />
+    <edge source="ukraine" target="this" />
+    <edge source="ukraine" target="russia" />
+    <edge source="ukraine" target="people" />
+    <edge source="ukraine" target="win" />
+    <edge source="ukraine" target="привіт" />
+    <edge source="ukraine" target="aid" />
+    <edge source="ukraine" target="ukraine" />
+    <edge source="ukraine" target="weapons" />
+    <edge source="ukraine" target="supporting" />
+    <edge source="ukraine" target="air" />
+    <edge source="ukraine" target="and" />
+    <edge source="ukraine" target="russian" />
+    <edge source="ukraine" target="equipment" />
+    <edge source="ukraine" target="fighting" />
+    <edge source="ukraine" target="hope" />
+    <edge source="ukraine" target="nato" />
+    <edge source="ukraine" target="defense" />
+    <edge source="ukraine" target="fight" />
+    <edge source="ukraine" target="may" />
+    <edge source="ukraine" target="military" />
+    <edge source="ukraine" target="time" />
+    <edge source="ukraine" target="heroes" />
+    <edge source="ukraine" target="jets" />
+    <edge source="ukraine" target="missiles" />
+    <edge source="ukraine" target="provide" />
+    <edge source="ukraine" target="that" />
+    <edge source="ukraine" target="invasion" />
+    <edge source="ukraine" target="soldiers" />
+    <edge source="ukraine" target="tanks" />
+    <edge source="ukraine" target="ukrainian" />
+    <edge source="ukraine" target="eastern" />
+    <edge source="ukraine" target="package" />
+    <edge source="ukraine" target="day" />
+    <edge source="ukraine" target="russians" />
+    <edge source="ukraine" target="funds" />
+    <edge source="ukraine" target="they" />
+    <edge source="ukraine" target="update" />
+    <edge source="ukraine" target="visit" />
+    <edge source="ukraine" target="daily" />
+    <edge source="ukraine" target="facing" />
+    <edge source="ukraine" target="president" />
+    <edge source="ukraine" target="..." />
+    <edge source="ukraine" target="europe" />
+    <edge source="ukraine" target="victory" />
+    <edge source="ukraine" target="what" />
+    <edge source="ukraine" target="but" />
+    <edge source="ukraine" target="crimea" />
+    <edge source="charities" target="list" />
+    <edge source="charities" target="vetted" />
+    <edge source="charities" target="verified" />
+    <edge source="charities" target="discussion" />
+    <edge source="charities" target="diverse" />
+    <edge source="charities" target="u/jesterboyd" />
+    <edge source="list" target="our" />
+    <edge source="art" target="friday" />
+    <edge source="art" target="rules" />
+    <edge source="friday" target="guidelines" />
+    <edge source="vetting" target="process" />
+    <edge source="vetting" target="our" />
+    <edge source="process" target="daily" />
+    <edge source="want" target="guidelines" />
+    <edge source="focused" target="vital" />
+    <edge source="focused" target="community" />
+    <edge source="vital" target="high-effort" />
+    <edge source="high-effort" target="content" />
+    <edge source="0-99" target="100-199" />
+    <edge source="0-99" target="day" />
+    <edge source="100-199" target="200-present" />
+    <edge source="200-present" target="all" />
+    <edge source="all" target="subject" />
+    <edge source="subject" target="there" />
+    <edge source="community" target="wartime" />
+    <edge source="community" target="respond" />
+    <edge source="community" target="hitting" />
+    <edge source="culture" target="day" />
+    <edge source="culture" target="history" />
+    <edge source="day" target="victory" />
+    <edge source="day" target="mother" />
+    <edge source="day" target="one" />
+    <edge source="day" target="previous" />
+    <edge source="day" target="day" />
+    <edge source="day" target="closer" />
+    <edge source="day" target="russia" />
+    <edge source="day" target="full-scale" />
+    <edge source="day" target="range" />
+    <edge source="day" target="ranges" />
+    <edge source="day" target="total" />
+    <edge source="day" target="losses" />
+    <edge source="daily" target="series" />
+    <edge source="series" target="history" />
+    <edge source="during" target="wartime" />
+    <edge source="during" target="привіт" />
+    <edge source="during" target="u/mil_in_ua" />
+    <edge source="during" target="u/ki_official" />
+    <edge source="during" target="u/united24media" />
+    <edge source="during" target="u/doccreator" />
+    <edge source="during" target="u/tallalittlebit" />
+    <edge source="during" target="u/therealmykola" />
+    <edge source="during" target="u/d-r-az" />
+    <edge source="during" target="u/snsetoverdi" />
+    <edge source="during" target="u/vectorix108" />
+    <edge source="during" target="u/commandercorrigan" />
+    <edge source="during" target="u/kharkivoblast" />
+    <edge source="during" target="u/marketrent" />
+    <edge source="during" target="u/okreddat" />
+    <edge source="during" target="u/warm_video_4946" />
+    <edge source="during" target="u/key_brother" />
+    <edge source="during" target="u/misana123" />
+    <edge source="during" target="u/totalspacenut" />
+    <edge source="during" target="u/ibloodylovecider" />
+    <edge source="ensure" target="post" />
+    <edge source="post" target="r/ukraine" />
+    <edge source="history" target="books" />
+    <edge source="r/ukraine" target="rules" />
+    <edge source="r/ukraine" target="posted" />
+    <edge source="r/ukraine" target="donate" />
+    <edge source="rules" target="browse" />
+    <edge source="there" target="wave" />
+    <edge source="there" target="lot" />
+    <edge source="wave" target="fraudulent" />
+    <edge source="wave" target="spam" />
+    <edge source="donation" target="requests" />
+    <edge source="donation" target="fraudulent" />
+    <edge source="donation" target="united24" />
+    <edge source="requests" target="posted" />
+    <edge source="requests" target="chat" />
+    <edge source="requests" target="hitting" />
+    <edge source="requests" target="aid" />
+    <edge source="verified" target="flair" />
+    <edge source="verified" target="donate" />
+    <edge source="submission" target="originates" />
+    <edge source="submission" target="determined" />
+    <edge source="submission" target="this" />
+    <edge source="originates" target="credible" />
+    <edge source="originates" target="official" />
+    <edge source="common" target="sense" />
+    <edge source="common" target="check" />
+    <edge source="sense" target="consuming" />
+    <edge source="mass" target="media" />
+    <edge source="mass" target="consuming" />
+    <edge source="media" target="learning" />
+    <edge source="media" target="social" />
+    <edge source="advise" target="users" />
+    <edge source="advise" target="source" />
+    <edge source="users" target="double" />
+    <edge source="check" target="double" />
+    <edge source="credible" target="source" />
+    <edge source="source" target="the" />
+    <edge source="source" target="government" />
+    <edge source="source" target="|special" />
+    <edge source="evaluate" target="news" />
+    <edge source="evaluate" target="learning" />
+    <edge source="news" target="sources" />
+    <edge source="learn" target="sources" />
+    <edge source="slava" target="ukraini" />
+    <edge source="slava" target="heroyam" />
+    <edge source="slava" target="heroiam" />
+    <edge source="slava" target="rip" />
+    <edge source="slava" target="привіт" />
+    <edge source="ukraini" target="привіт" />
+    <edge source="ukraini" target="heroyam" />
+    <edge source="привіт" target="u/mil_in_ua" />
+    <edge source="привіт" target="u/ki_official" />
+    <edge source="привіт" target="u/united24media" />
+    <edge source="привіт" target="u/doccreator" />
+    <edge source="привіт" target="u/tallalittlebit" />
+    <edge source="привіт" target="u/therealmykola" />
+    <edge source="привіт" target="u/d-r-az" />
+    <edge source="привіт" target="u/snsetoverdi" />
+    <edge source="привіт" target="u/vectorix108" />
+    <edge source="привіт" target="u/commandercorrigan" />
+    <edge source="привіт" target="u/kharkivoblast" />
+    <edge source="привіт" target="u/marketrent" />
+    <edge source="привіт" target="u/okreddat" />
+    <edge source="привіт" target="u/warm_video_4946" />
+    <edge source="привіт" target="u/key_brother" />
+    <edge source="привіт" target="u/misana123" />
+    <edge source="привіт" target="u/totalspacenut" />
+    <edge source="привіт" target="..." />
+    <edge source="привіт" target="u/ibloodylovecider" />
+    <edge source="chat" target="spam" />
+    <edge source="chats" target="spam" />
+    <edge source="chats" target="marking" />
+    <edge source="respond" target="links" />
+    <edge source="links" target="protect" />
+    <edge source="protect" target="marking" />
+    <edge source="air" target="defense" />
+    <edge source="air" target="defence" />
+    <edge source="air" target="russian" />
+    <edge source="air" target="force" />
+    <edge source="air" target="defenses" />
+    <edge source="air" target="ukrainian" />
+    <edge source="air" target="raid" />
+    <edge source="air" target="superiority" />
+    <edge source="air" target="what" />
+    <edge source="air" target="assault" />
+    <edge source="defense" target="systems" />
+    <edge source="defense" target="forces" />
+    <edge source="defense" target="ministry" />
+    <edge source="defense" target="trident" />
+    <edge source="defense" target="initiative" />
+    <edge source="defense" target="minister" />
+    <edge source="defense" target="territorial" />
+    <edge source="defense" target="humanitarian" />
+    <edge source="heroyam" target="ukraíni" />
+    <edge source="heroyam" target="victory" />
+    <edge source="storm" target="shadow" />
+    <edge source="storm" target="shadows" />
+    <edge source="shadow" target="missiles" />
+    <edge source="armed" target="forces" />
+    <edge source="armed" target="staff" />
+    <edge source="armed" target="ukrainian" />
+    <edge source="forces" target="russian" />
+    <edge source="forces" target="ukrainian" />
+    <edge source="forces" target="special" />
+    <edge source="ukrainian" target="soldiers" />
+    <edge source="ukrainian" target="people" />
+    <edge source="ukrainian" target="the" />
+    <edge source="ukrainian" target="training" />
+    <edge source="ukrainian" target="military" />
+    <edge source="ukrainian" target="army" />
+    <edge source="ukrainian" target="pilots" />
+    <edge source="ukrainian" target="troops" />
+    <edge source="ukrainian" target="president" />
+    <edge source="ukrainian" target="soldier" />
+    <edge source="ukrainian" target="thousands" />
+    <edge source="ukrainian" target="cities" />
+    <edge source="ukrainian" target="flag" />
+    <edge source="ukrainian" target="intelligence" />
+    <edge source="ukrainian" target="language" />
+    <edge source="soldiers" target="russian" />
+    <edge source="soldiers" target="lives" />
+    <edge source="soldiers" target="frontline" />
+    <edge source="soldiers" target="direct" />
+    <edge source="rest" target="peace" />
+    <edge source="rest" target="easy" />
+    <edge source="counter" target="offensive" />
+    <edge source="russian" target="army" />
+    <edge source="russian" target="the" />
+    <edge source="russian" target="military" />
+    <edge source="russian" target="troops" />
+    <edge source="russian" target="federation" />
+    <edge source="russian" target="positions" />
+    <edge source="russian" target="invaders" />
+    <edge source="russian" target="war" />
+    <edge source="russian" target="soldier" />
+    <edge source="russian" target="russia" />
+    <edge source="russian" target="aggression" />
+    <edge source="russian" target="artillery" />
+    <edge source="russian" target="losses" />
+    <edge source="russian" target="occupation" />
+    <edge source="russian" target="occupiers" />
+    <edge source="russian" target="destroyed" />
+    <edge source="russian" target="flags" />
+    <edge source="russian" target="territory" />
+    <edge source="russian" target="estimated" />
+    <edge source="russian" target="captivity" />
+    <edge source="russian" target="invasion" />
+    <edge source="russian" target="missile" />
+    <edge source="russian" target="propaganda" />
+    <edge source="russian" target="tanks" />
+    <edge source="war" target="crimes" />
+    <edge source="war" target="russia" />
+    <edge source="war" target="this" />
+    <edge source="war" target="effort" />
+    <edge source="war" target="win" />
+    <edge source="war" target="world" />
+    <edge source="war" target="the" />
+    <edge source="war" target="start" />
+    <edge source="war" target="crime" />
+    <edge source="war" target="criminals" />
+    <edge source="war" target="cold" />
+    <edge source="war" target="they" />
+    <edge source="war" target="zone" />
+    <edge source="cruise" target="missiles" />
+    <edge source="cruise" target="missile" />
+    <edge source="missiles" target="range" />
+    <edge source="fuck" target="russia" />
+    <edge source="fuck" target="putin" />
+    <edge source="russia" target="they" />
+    <edge source="russia" target="..." />
+    <edge source="russia" target="lost" />
+    <edge source="russia" target="russia" />
+    <edge source="russia" target="people" />
+    <edge source="russia" target="putin" />
+    <edge source="russia" target="china" />
+    <edge source="russia" target="the" />
+    <edge source="russia" target="time" />
+    <edge source="russia" target="and" />
+    <edge source="glory" target="heroes" />
+    <edge source="the" target="russians" />
+    <edge source="the" target="..." />
+    <edge source="the" target="ukrainians" />
+    <edge source="the" target="time" />
+    <edge source="the" target="eest" />
+    <edge source="the" target="sun" />
+    <edge source="the" target="general" />
+    <edge source="the" target="people" />
+    <edge source="the" target="united" />
+    <edge source="black" target="sea" />
+    <edge source="sea" target="fleet" />
+    <edge source="слава" target="україні" />
+    <edge source="україні" target="sláva" />
+    <edge source="україні" target="🇺🇦слава" />
+    <edge source="military" target="aid" />
+    <edge source="military" target="equipment" />
+    <edge source="defence" target="ministry" />
+    <edge source="this" target="guy" />
+    <edge source="this" target="original" />
+    <edge source="this" target="time" />
+    <edge source="this" target="video" />
+    <edge source="this" target="..." />
+    <edge source="this" target="alive" />
+    <edge source="may" target="2023" />
+    <edge source="may" target="9th" />
+    <edge source="stay" target="safe" />
+    <edge source="stay" target="strong" />
+    <edge source="people" target="lot" />
+    <edge source="god" target="bless" />
+    <edge source="god" target="damn" />
+    <edge source="president" target="zelensky" />
+    <edge source="president" target="volodymyr" />
+    <edge source="president" target="zelenskyy" />
+    <edge source="zelensky" target="volodymyr" />
+    <edge source="humanitarian" target="aid" />
+    <edge source="aid" target="package" />
+    <edge source="aid" target="ops" />
+    <edge source="aid" target="vulnerable" />
+    <edge source="fighter" target="jets" />
+    <edge source="volodymyr" target="zelenskyy" />
+    <edge source="sláva" target="ukraíni" />
+    <edge source="training" target="lines" />
+    <edge source="united" target="states" />
+    <edge source="united" target="kingdom" />
+    <edge source="full-scale" target="invasion" />
+    <edge source="invasion" target="centuries" />
+    <edge source="systems" target="artillery" />
+    <edge source="equipment" target="medical" />
+    <edge source="equipment" target="special" />
+    <edge source="equipment" target="deliver" />
+    <edge source="red" target="cross" />
+    <edge source="red" target="square" />
+    <edge source="general" target="staff" />
+    <edge source="prime" target="minister" />
+    <edge source="victory" target="closer" />
+    <edge source="temporarily" target="occupied" />
+    <edge source="occupied" target="territories" />
+    <edge source="..." target="..." />
+    <edge source="..." target="what" />
+    <edge source="boats|-|-|-|-|18|" target="|other" />
+    <edge source="boats|-|-|-|-|18|" target="|warships" />
+    <edge source="|other" target="|special" />
+    <edge source="change" target="previous" />
+    <edge source="change" target="|special" />
+    <edge source="one" target="centuries" />
+    <edge source="time" target="|anti-aircraft" />
+    <edge source="time" target="total" />
+    <edge source="|anti-aircraft" target="|warships" />
+    <edge source="total" target="losses" />
+    <edge source="total" target="averages" />
+    <edge source="total" target="ranges" />
+    <edge source="range" target="averages" />
+    <edge source="weapons" target="nuclear" />
+    <edge source="assault" target="brigade" />
+    <edge source="good" target="job" />
+    <edge source="good" target="luck" />
+    <edge source="good" target="night" />
+    <edge source="job" target="great" />
+    <edge source="special" target="operations" />
+    <edge source="holy" target="shit" />
+    <edge source="hypersonic" target="missile" />
+    <edge source="missile" target="patriot" />
+    <edge source="missile" target="ballistic" />
+    <edge source="pilots" target="train" />
+    <edge source="kherson" target="oblast" />
+    <edge source="oblast" target="kharkiv" />
+    <edge source="save" target="lives" />
+    <edge source="armored" target="vehicles" />
+    <edge source="hope" target="let" />
+    <edge source="kerch" target="bridge" />
+    <edge source="song" target="contest" />
+    <edge source="song" target="eurovision" />
+    <edge source="south" target="africa" />
+    <edge source="fight" target="freedom" />
+    <edge source="comments" target="monitored" />
+    <edge source="comments" target="feedback" />
+    <edge source="monitored" target="constructive" />
+    <edge source="constructive" target="feedback" />
+    <edge source="feedback" target="drs" />
+    <edge source="feedback" target="top" />
+    <edge source="extended" target="summary" />
+    <edge source="summary" target="faq" />
+    <edge source="faq" target="version" />
+    <edge source="version" target="2.02" />
+    <edge source="top" target="keywords" />
+    <edge source="img" target="emote|t5_2qqcn|9000" />
+    <edge source="img" target="emote|t5_2qqcn|9151" />
+    <edge source="kharkiv" target="region" />
+    <edge source="law" target="enforcement" />
+    <edge source="original" target="reduced" />
+    <edge source="rip" target="hero" />
+    <edge source="losses" target="24.02.2022" />
+    <edge source="suredg" target="gmail.com" />
+    <edge source="gmail.com" target="mailto" />
+    <edge source="brrrrrrt" target="brrrrrrt" />
+    <edge source="charlemagne" target="prize" />
+    <edge source="dead" target="orcs" />
+    <edge source="international" target="legion" />
+    <edge source="nuclear" target="power" />
+    <edge source="rishi" target="sunak" />
+    <edge source="soviet" target="union" />
+    <edge source="tanks" target="abrams" />
+    <edge source="back" target="alive" />
+    <edge source="back" target="come" />
+    <edge source="february" target="2022" />
+    <edge source="2022" target="you" />
+    <edge source="medical" target="battalion" />
+    <edge source="nazi" target="germany" />
+    <edge source="patriot" target="battery" />
+    <edge source="real" target="life" />
+    <edge source="thermal" target="vision" />
+    <edge source="vision" target="night" />
+    <edge source="you" target="guys" />
+    <edge source="dji" target="mavic" />
+    <edge source="european" target="countries" />
+    <edge source="battalion" target="unites" />
+    <edge source="mod" target="mail" />
+    <edge source="nova" target="kakhovka" />
+    <edge source="over" target="kyiv" />
+    <edge source="over" target="rising" />
+    <edge source="rising" target="sun" />
+    <edge source="trained" target="equipped" />
+    <edge source="washing" target="machine" />
+    <edge source="airline" target="miles" />
+    <edge source="cannon" target="fodder" />
+    <edge source="couple" target="weeks" />
+    <edge source="front" target="line" />
+    <edge source="government" target="official" />
+    <edge source="imagine" target="dragons" />
+    <edge source="raising" target="money" />
+    <edge source="removed" target="removed" />
+    <edge source="vehicle" target="repairs" />
+    <edge source="vehicle" target="crowdfund" />
+    <edge source="501" target="ngo" />
+    <edge source="allocated" target="cover" />
+    <edge source="cover" target="pressing" />
+    <edge source="charitable" target="donations" />
+    <edge source="charitable" target="collecting" />
+    <edge source="co-founded" target="u/kilderov" />
+    <edge source="crowdfunds" target="non-lethal" />
+  </graph>
+</graphml>
