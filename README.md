@@ -1,4 +1,4 @@
 # data_mining_reddit
-Practica Final de Búsqueda y Análisis de la Información
+Búsqueda y Análisis de la Información - Reddit Ucrania
 
 ![wordcloud](wordcloud_reddit.png)
